@@ -1,4 +1,4 @@
-I talk about how I got this repo
+I talk about how I got this repository setup in my blog post that you can find [here](https://dev.to/jtfinley/dynamic-page-titles-in-ruby-on-rails-4e29).
 
 ##### Prerequisites
 
