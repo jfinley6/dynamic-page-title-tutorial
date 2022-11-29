@@ -1,0 +1,13 @@
+<%= title @book.title  %>
+
+<%#= show.html.erb %>
+<p style="color: green"><%= notice %></p>
+
+<div style="display: flex; flex-direction: column; align-items: center">
+  <%= render @book %>
+  <%= link_to "Back to books", books_path, style: "text-align: left" %>
+</div>
+
+
+
+

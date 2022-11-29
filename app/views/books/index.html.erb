@@ -1,0 +1,19 @@
+<% content_for :title do %>
+  All Books
+<% end %>
+
+<p style="color: green"><%= notice %></p>
+
+<h2 style="text-align: center">All Books</h2>
+
+<div id="books" style="display: flex; flex-direction: column; align-items: center">
+  <% @books.each do |book| %>
+    <div style="border-style: solid; width: 300px; text-align: center; margin-bottom: 5px">
+      <%= render book %>
+    <p>
+      <%= link_to "Show this book", book %>
+    </p>
+    </div>
+  <% end %>
+</div>
+
