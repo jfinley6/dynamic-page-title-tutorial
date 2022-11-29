@@ -2,7 +2,7 @@ I talk about how I got this repository setup in my blog post that you can find [
 
 ##### Prerequisites
 
-The setups steps expect following tools installed on the system.
+The setup steps done using the following tools
 
 - Github
 - Ruby [2.7.4](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
