@@ -1,4 +1,6 @@
-I talk about how I got this repository setup in my blog post that you can find [here](https://dev.to/jtfinley/dynamic-page-titles-in-ruby-on-rails-4e29).
+In this tutorial I walk through how to set the content of the page title. I talk about how I got this repository setup in my blog post that you can find [here](https://dev.to/jtfinley/dynamic-page-titles-in-ruby-on-rails-4e29).
+
+![Page title should reflect content in browser](https://i.imgur.com/vpuPSGd.png)
 
 ##### Prerequisites
 
